@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=nikhil0502&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-19-blue" />
+<img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Tamil-brightgreen" />
@@ -37,7 +37,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing different types of navbar for future use!!<br>
+✔ I’m currently Developing a e-commerce website using react js!!<br>
 ✔ I’m currently learning about **BackEnd Development**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source FrontEnd projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>

@@ -12,8 +12,6 @@ I am Nikhil. I am a beginner web developer, here some info about me
 - Discord: [`Badass#4687`](https://discord.com/users/badass#4687)
 - Email: [`Click To Mail!`](mailto:naharnikhil6@gmail.com) or copy **`naharnikhil6@gmail.com`**
 
-
-[![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
  
 > You can know if i am active on Discord, by looking at my GitHub status. It updates when i become online on discord and when i am sleeping.
 

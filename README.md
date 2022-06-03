@@ -39,6 +39,8 @@ I am Nikhil. I am a beginner web developer, here some info about me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
 
 More Info?
 
@@ -50,20 +52,12 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0502&theme=radical" alt="More Nikhil's Stats" /></p>
 </a>
 
-## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the previous played song)**
 
-<p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-  </p>
 
 
 
 ------
 
-[Nishant1500](https://github.com/nikhil0502)
+[nikhil0502](https://github.com/nikhil0502)
 <br>
 

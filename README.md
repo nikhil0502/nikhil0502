@@ -1,61 +1,71 @@
-<p align="center">
-  <img src="https://www.eviaglobal.com/images/Front-End-Web-Development.jpg" height="200"/>
-</p>
-<br>
-
-
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=nikhil0502&color=brightgreen" alt="watching_count" />
  </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Tamil-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nikhil Nahar </h1>
-<h3 align="center">FrontEnd Web Development | Graphic Designer </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/nikhil-nahar-a6321b192/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
- <a href = "mailto: naharnikhil6@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
+
+# Hello There!
+
+I am Nikhil. I am a beginner web developer, here some info about me
+- 🙃 Pronouns: He/Him/They/Them
+- 👀 I’m interested in [JS](https://www.oracle.com/in/js/). I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something)
+- 💞️ I’m looking to collaborate on nothing... You can contact me for collaboration though!
+#### 📫 How to reach me
+- Discord: [`Badass#4687`](https://discord.com/users/badass#4687)
+- Email: [`Click To Mail!`](mailto:naharnikhil6@gmail.com) or copy **`naharnikhil6@gmail.com`**
 
 
-
-<p align="center">
-  <em>
-    Hello, I am Nikhil Nahar a <b>pre-final year</b> undergraduate from <a href="https://uom.lk/"> <b>Srm University</b>, India (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Front End Developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> as well as <b>Graphic Designer</b> ,surfing about design and coding over Internet!!!
-  </em> 
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a e-commerce website using react js!!<br>
-✔ I’m currently learning about **BackEnd Development**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source FrontEnd projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+[![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
  
+> You can know if i am active on Discord, by looking at my GitHub status. It updates when i become online on discord and when i am sleeping.
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-    <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+---
+
+</p>
+
+```diff
+@@        Extra Contacts        @@
+```
+
+</p>
+
+---
+<p align="center">
+<a href="https://github.com/nikhil0502">
+<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+</a>
+</p>
 
 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil0502&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikhil0502&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<h3 align="left">Languages and Tools:</h3>
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+More Info?
+
+## GitHub Statistics
+[![Nikhil0502's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil0502&show_icons=true&theme=radical)](https://github.com/nikhil0502?tab=overview)
+<br>
+<a href="https://github.com/nikhil0502?tab=overview">
+<img align="center" alt="Nikhil's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil0502&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0502&theme=radical" alt="More Nikhil's Stats" /></p>
+</a>
+
+## 🎵 Spotify status
+I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
+**(If Something is not playing, it just shows static info of the previous played song)**
+
+<p align="center">
+<a href="https://readme-new.vercel.app/api/song/?opened">
+  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+</a>
+  </p>
+
+
+
+------
+
+[Nishant1500](https://github.com/nikhil0502)
+<br>
+

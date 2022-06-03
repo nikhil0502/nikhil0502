@@ -12,8 +12,6 @@ I am Nikhil. I am a beginner web developer, here some info about me
 - Discord: [`Badass#4687`](https://discord.com/users/badass#4687)
 - Email: [`Click To Mail!`](mailto:naharnikhil6@gmail.com) or copy **`naharnikhil6@gmail.com`**
 
- 
-> You can know if i am active on Discord, by looking at my GitHub status. It updates when i become online on discord and when i am sleeping.
 
 ---
 
@@ -40,7 +38,7 @@ I am Nikhil. I am a beginner web developer, here some info about me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
+
 
 More Info?
 

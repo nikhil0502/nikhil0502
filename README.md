@@ -13,17 +13,6 @@ I am Nikhil. I am a beginner web developer, here some info about me
 - Email: [`Click To Mail!`](mailto:naharnikhil6@gmail.com) or copy **`naharnikhil6@gmail.com`**
 
 
----
-
-</p>
-
-```diff
-@@        Extra Contacts        @@
-```
-
-</p>
-
----
 <p align="center">
 <a href="https://github.com/nikhil0502">
 <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
